@@ -4,3 +4,5 @@
 - 實作查詢句的兩個資料集
   - Movie.csv
   - Rating.csv
+- create_table.sql -> 建立 table
+- SQL_EXECUTION.sql -> sql 查詢句
